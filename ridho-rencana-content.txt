@@ -4,6 +4,7 @@ RENCANA KONTEN RIDHO
   = Neraca saldo
   = Laba rugi
     = Pendapatan
+    = Beban
 - Akuntansi Menengah
 - Akuntansi Lanjutan
   = Sistem flow
