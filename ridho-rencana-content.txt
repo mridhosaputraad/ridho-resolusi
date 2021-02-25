@@ -3,7 +3,11 @@ RENCANA KONTEN RIDHO
 - Akuntansi Dasar
   = Neraca saldo
   = Laba rugi
+    = Pendapatan
+    = Beban
 - Akuntansi Menengah
 - Akuntansi Lanjutan
+  = Sistem flow
 - Interview
 - Vlogs
+- Akuntansi UMKM
